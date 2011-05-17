@@ -1,0 +1,27 @@
+====== Usage ======
+
+vid2mp4:
+
+  $ vid2mp4.sh <source_file> <target_file>
+
+vid2mp4_seek:
+  
+  $ vid2mp4_seek.h <source_file> <targe_file> <start_time>
+
+vid2mp4_timed:
+
+  $ vid2mp4_timed.sh <source_file> <target_file> <start_time> <duration>
+
+  star_time, duration: is seconds, or in the "hh.mm.ss[.xxx]" syntax
+
+vid2mp4_sized:
+
+  $ vid2mp4_sized.sh <wxh> <source_file> <target_file>
+
+batch_conversion.py:
+
+  $ python batch_conversion.py <specs_file>
+
+ 
+  
+ 
